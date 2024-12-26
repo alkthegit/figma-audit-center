@@ -13,6 +13,12 @@
     "vite": "^6.0.3"
   },
   "dependencies": {
-    "normalize.css": "^8.0.1"
+    "@fancyapps/ui": "^5.0.36",
+    "choices.js": "^11.0.2",
+    "jquery": "^3.7.1",
+    "jquery-mask-plugin": "^1.14.16",
+    "normalize.css": "^8.0.1",
+    "readmore-js": "^2.2.1",
+    "swiper": "^11.1.15"
   }
 }
